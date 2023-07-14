@@ -4,6 +4,7 @@
  - Python
  - C++
 ---
+![](https://github.com/FernandoAyach/FernandoAyach/blob/main/BannerparaLinkedinTecnologia(1).jpg?raw=true)
 > Currently studying in the Universidade Federal do Mato Grosso do Sul, as bachelor in Computer Software Engineering.
 >
 > I have experiences with Android Mobile Development as an trainee at the company Jera Software Ágil, 
