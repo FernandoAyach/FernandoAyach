@@ -10,7 +10,7 @@
 
 ## Contact
 
-> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/fernando-ayach-83021a267/)
+> [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-ayach-83021a267/)
 
 ## About me
 
