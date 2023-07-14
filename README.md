@@ -1,9 +1,9 @@
 # Hi there, I'm Fernando Ayach! 😀
-
+---
  - Experience with Front-end (Java/Kotlin/Flutter);
  - Python
  - C++
-
+---
 > Currently studying in the Universidade Federal do Mato Grosso do Sul, as bachelor in Computer Software Engineering.
 >
 > I have experiences with Android Mobile Development as an trainee at the company Jera Software Ágil, 
