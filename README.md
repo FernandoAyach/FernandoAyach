@@ -4,17 +4,19 @@
 
 ## :book: About me 
 
-- :book: Fernando Ribeiro Ayach, 18 years 
+- :book: Fernando Ribeiro Ayach, 19 years 
 - :school_satchel: Computer Software Engineering student at UFMS 
 - :computer: Focused at building clean, efficient and sustainable software, specially web and mobile applications. 
-- :email: I like Computer Networks 
-- :balloon: Interessed in Competitive Programming 
-- :bulb: I want, beyond everything, build something useful to people 
+- :bulb: I want, beyond everything, build something useful to people
+- Researcher
 
 ## :computer: Experiences 
 
 - Android Mobile Development as an intern at the company Jera Software Ágil
 - Research Project related to Livestock Monitoring
+- Extension project at LEDES
+- Research in SE4AI
+- Third Best Graduate Research on Software Enginneering, in 2024.
 
 ## :dart: Skills/Tools 
 
